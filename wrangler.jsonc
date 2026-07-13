@@ -1,0 +1,5 @@
+{
+  "name": "cf-api-26",
+  "main": "dist/worker.js",
+  "compatibility_date": "2026-07-13"
+}
